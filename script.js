@@ -3,7 +3,7 @@ const hoursEl = document.getElementById("hours");
 const minutesEl = document.getElementById("minutes");
 const secondsEl = document.getElementById("seconds");
 
-const vacation = "1 Nov 2022";
+const vacation = "1 Sep 2022";
 
 function countdown() {
   const vacationDate = new Date(vacation);
